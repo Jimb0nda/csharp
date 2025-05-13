@@ -1,0 +1,15 @@
+/home/james/dev/csharp/design_patterns/singleton/properLazyLoadingAndThreadSaftey/obj/Debug/net9.0/properLazyLoadingAndThreadSaftey.GeneratedMSBuildEditorConfig.editorconfig
+/home/james/dev/csharp/design_patterns/singleton/properLazyLoadingAndThreadSaftey/obj/Debug/net9.0/properLazyLoadingAndThreadSaftey.AssemblyInfoInputs.cache
+/home/james/dev/csharp/design_patterns/singleton/properLazyLoadingAndThreadSaftey/obj/Debug/net9.0/properLazyLoadingAndThreadSaftey.AssemblyInfo.cs
+/home/james/dev/csharp/design_patterns/singleton/properLazyLoadingAndThreadSaftey/obj/Debug/net9.0/properLazyLoadingAndThreadSaftey.csproj.CoreCompileInputs.cache
+/home/james/dev/csharp/design_patterns/singleton/properLazyLoadingAndThreadSaftey/obj/Debug/net9.0/properLazyLoadingAndThreadSaftey.sourcelink.json
+/home/james/dev/csharp/design_patterns/singleton/properLazyLoadingAndThreadSaftey/bin/Debug/net9.0/properLazyLoadingAndThreadSaftey
+/home/james/dev/csharp/design_patterns/singleton/properLazyLoadingAndThreadSaftey/bin/Debug/net9.0/properLazyLoadingAndThreadSaftey.deps.json
+/home/james/dev/csharp/design_patterns/singleton/properLazyLoadingAndThreadSaftey/bin/Debug/net9.0/properLazyLoadingAndThreadSaftey.runtimeconfig.json
+/home/james/dev/csharp/design_patterns/singleton/properLazyLoadingAndThreadSaftey/bin/Debug/net9.0/properLazyLoadingAndThreadSaftey.dll
+/home/james/dev/csharp/design_patterns/singleton/properLazyLoadingAndThreadSaftey/bin/Debug/net9.0/properLazyLoadingAndThreadSaftey.pdb
+/home/james/dev/csharp/design_patterns/singleton/properLazyLoadingAndThreadSaftey/obj/Debug/net9.0/properLazyLoadingAndThreadSaftey.dll
+/home/james/dev/csharp/design_patterns/singleton/properLazyLoadingAndThreadSaftey/obj/Debug/net9.0/refint/properLazyLoadingAndThreadSaftey.dll
+/home/james/dev/csharp/design_patterns/singleton/properLazyLoadingAndThreadSaftey/obj/Debug/net9.0/properLazyLoadingAndThreadSaftey.pdb
+/home/james/dev/csharp/design_patterns/singleton/properLazyLoadingAndThreadSaftey/obj/Debug/net9.0/properLazyLoadingAndThreadSaftey.genruntimeconfig.cache
+/home/james/dev/csharp/design_patterns/singleton/properLazyLoadingAndThreadSaftey/obj/Debug/net9.0/ref/properLazyLoadingAndThreadSaftey.dll

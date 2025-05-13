@@ -1,0 +1,15 @@
+/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/bin/Debug/net9.0/singletonLazyLoading
+/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/bin/Debug/net9.0/singletonLazyLoading.deps.json
+/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/bin/Debug/net9.0/singletonLazyLoading.runtimeconfig.json
+/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/bin/Debug/net9.0/singletonLazyLoading.dll
+/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/bin/Debug/net9.0/singletonLazyLoading.pdb
+/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/obj/Debug/net9.0/singletonLazyLoading.GeneratedMSBuildEditorConfig.editorconfig
+/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/obj/Debug/net9.0/singletonLazyLoading.AssemblyInfoInputs.cache
+/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/obj/Debug/net9.0/singletonLazyLoading.AssemblyInfo.cs
+/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/obj/Debug/net9.0/singletonLazyLoading.csproj.CoreCompileInputs.cache
+/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/obj/Debug/net9.0/singletonLazyLoading.sourcelink.json
+/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/obj/Debug/net9.0/singletonLazyLoading.dll
+/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/obj/Debug/net9.0/refint/singletonLazyLoading.dll
+/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/obj/Debug/net9.0/singletonLazyLoading.pdb
+/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/obj/Debug/net9.0/singletonLazyLoading.genruntimeconfig.cache
+/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/obj/Debug/net9.0/ref/singletonLazyLoading.dll

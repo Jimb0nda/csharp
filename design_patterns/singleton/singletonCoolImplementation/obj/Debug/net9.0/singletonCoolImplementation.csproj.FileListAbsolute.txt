@@ -1,0 +1,15 @@
+/home/james/dev/csharp/design_patterns/singleton/singletonCoolImplementation/bin/Debug/net9.0/singletonCoolImplementation
+/home/james/dev/csharp/design_patterns/singleton/singletonCoolImplementation/bin/Debug/net9.0/singletonCoolImplementation.deps.json
+/home/james/dev/csharp/design_patterns/singleton/singletonCoolImplementation/bin/Debug/net9.0/singletonCoolImplementation.runtimeconfig.json
+/home/james/dev/csharp/design_patterns/singleton/singletonCoolImplementation/bin/Debug/net9.0/singletonCoolImplementation.dll
+/home/james/dev/csharp/design_patterns/singleton/singletonCoolImplementation/bin/Debug/net9.0/singletonCoolImplementation.pdb
+/home/james/dev/csharp/design_patterns/singleton/singletonCoolImplementation/obj/Debug/net9.0/singletonCoolImplementation.GeneratedMSBuildEditorConfig.editorconfig
+/home/james/dev/csharp/design_patterns/singleton/singletonCoolImplementation/obj/Debug/net9.0/singletonCoolImplementation.AssemblyInfoInputs.cache
+/home/james/dev/csharp/design_patterns/singleton/singletonCoolImplementation/obj/Debug/net9.0/singletonCoolImplementation.AssemblyInfo.cs
+/home/james/dev/csharp/design_patterns/singleton/singletonCoolImplementation/obj/Debug/net9.0/singletonCoolImplementation.csproj.CoreCompileInputs.cache
+/home/james/dev/csharp/design_patterns/singleton/singletonCoolImplementation/obj/Debug/net9.0/singletonCoolImplementation.sourcelink.json
+/home/james/dev/csharp/design_patterns/singleton/singletonCoolImplementation/obj/Debug/net9.0/singletonCoolImplementation.dll
+/home/james/dev/csharp/design_patterns/singleton/singletonCoolImplementation/obj/Debug/net9.0/refint/singletonCoolImplementation.dll
+/home/james/dev/csharp/design_patterns/singleton/singletonCoolImplementation/obj/Debug/net9.0/singletonCoolImplementation.pdb
+/home/james/dev/csharp/design_patterns/singleton/singletonCoolImplementation/obj/Debug/net9.0/singletonCoolImplementation.genruntimeconfig.cache
+/home/james/dev/csharp/design_patterns/singleton/singletonCoolImplementation/obj/Debug/net9.0/ref/singletonCoolImplementation.dll
