@@ -1,6 +1,6 @@
-## CSharp Projects
+# CSharp Projects
 
-# Design Pattern Examples
+## Design Pattern Examples
 Singleton
 
-# Algorithm Examples
+## Algorithm Examples
