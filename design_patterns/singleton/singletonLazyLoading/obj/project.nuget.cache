@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QCeOsYjfu2g=",
+  "success": true,
+  "projectFilePath": "/home/james/dev/csharp/design_patterns/singleton/singletonLazyLoading/singletonLazyLoading.csproj",
+  "expectedPackageFiles": [
+    "/home/james/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

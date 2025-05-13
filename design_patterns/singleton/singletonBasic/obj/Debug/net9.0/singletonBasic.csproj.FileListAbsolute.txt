@@ -1,0 +1,15 @@
+/home/james/dev/csharp/design_patterns/singleton/singletonBasic/bin/Debug/net9.0/singletonBasic
+/home/james/dev/csharp/design_patterns/singleton/singletonBasic/bin/Debug/net9.0/singletonBasic.deps.json
+/home/james/dev/csharp/design_patterns/singleton/singletonBasic/bin/Debug/net9.0/singletonBasic.runtimeconfig.json
+/home/james/dev/csharp/design_patterns/singleton/singletonBasic/bin/Debug/net9.0/singletonBasic.dll
+/home/james/dev/csharp/design_patterns/singleton/singletonBasic/bin/Debug/net9.0/singletonBasic.pdb
+/home/james/dev/csharp/design_patterns/singleton/singletonBasic/obj/Debug/net9.0/singletonBasic.GeneratedMSBuildEditorConfig.editorconfig
+/home/james/dev/csharp/design_patterns/singleton/singletonBasic/obj/Debug/net9.0/singletonBasic.AssemblyInfoInputs.cache
+/home/james/dev/csharp/design_patterns/singleton/singletonBasic/obj/Debug/net9.0/singletonBasic.AssemblyInfo.cs
+/home/james/dev/csharp/design_patterns/singleton/singletonBasic/obj/Debug/net9.0/singletonBasic.csproj.CoreCompileInputs.cache
+/home/james/dev/csharp/design_patterns/singleton/singletonBasic/obj/Debug/net9.0/singletonBasic.sourcelink.json
+/home/james/dev/csharp/design_patterns/singleton/singletonBasic/obj/Debug/net9.0/singletonBasic.dll
+/home/james/dev/csharp/design_patterns/singleton/singletonBasic/obj/Debug/net9.0/refint/singletonBasic.dll
+/home/james/dev/csharp/design_patterns/singleton/singletonBasic/obj/Debug/net9.0/singletonBasic.pdb
+/home/james/dev/csharp/design_patterns/singleton/singletonBasic/obj/Debug/net9.0/singletonBasic.genruntimeconfig.cache
+/home/james/dev/csharp/design_patterns/singleton/singletonBasic/obj/Debug/net9.0/ref/singletonBasic.dll
