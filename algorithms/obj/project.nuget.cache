@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gkQ9rtRDcu4=",
+  "dgSpecHash": "nTS1f3+L4I8=",
   "success": true,
-  "projectFilePath": "/home/james/dev/csharp/algorithms_project/algorithms/algorithms.csproj",
+  "projectFilePath": "/home/james/dev/csharp/algorithms/algorithms.csproj",
   "expectedPackageFiles": [
     "/home/james/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/james/dev/csharp/algorithms_project/algorithms/algorithms.csproj": {}
+    "/home/james/dev/csharp/algorithms/algorithms.csproj": {}
   },
   "projects": {
-    "/home/james/dev/csharp/algorithms_project/algorithms/algorithms.csproj": {
+    "/home/james/dev/csharp/algorithms/algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/james/dev/csharp/algorithms_project/algorithms/algorithms.csproj",
+        "projectUniqueName": "/home/james/dev/csharp/algorithms/algorithms.csproj",
         "projectName": "algorithms",
-        "projectPath": "/home/james/dev/csharp/algorithms_project/algorithms/algorithms.csproj",
+        "projectPath": "/home/james/dev/csharp/algorithms/algorithms.csproj",
         "packagesPath": "/home/james/.nuget/packages/",
-        "outputPath": "/home/james/dev/csharp/algorithms_project/algorithms/obj/",
+        "outputPath": "/home/james/dev/csharp/algorithms/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/james/.nuget/NuGet/NuGet.Config"
