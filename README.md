@@ -2,5 +2,6 @@
 
 ## Design Pattern Examples
 Singleton
+Prototype
 
 ## Algorithm Examples

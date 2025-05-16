@@ -1,0 +1,15 @@
+/home/james/dev/csharp/design_patterns/prototype/prototypeShapes/obj/Debug/net9.0/prototypeShapes.GeneratedMSBuildEditorConfig.editorconfig
+/home/james/dev/csharp/design_patterns/prototype/prototypeShapes/obj/Debug/net9.0/prototypeShapes.AssemblyInfoInputs.cache
+/home/james/dev/csharp/design_patterns/prototype/prototypeShapes/obj/Debug/net9.0/prototypeShapes.AssemblyInfo.cs
+/home/james/dev/csharp/design_patterns/prototype/prototypeShapes/obj/Debug/net9.0/prototypeShapes.csproj.CoreCompileInputs.cache
+/home/james/dev/csharp/design_patterns/prototype/prototypeShapes/obj/Debug/net9.0/prototypeShapes.sourcelink.json
+/home/james/dev/csharp/design_patterns/prototype/prototypeShapes/bin/Debug/net9.0/prototypeShapes
+/home/james/dev/csharp/design_patterns/prototype/prototypeShapes/bin/Debug/net9.0/prototypeShapes.deps.json
+/home/james/dev/csharp/design_patterns/prototype/prototypeShapes/bin/Debug/net9.0/prototypeShapes.runtimeconfig.json
+/home/james/dev/csharp/design_patterns/prototype/prototypeShapes/bin/Debug/net9.0/prototypeShapes.dll
+/home/james/dev/csharp/design_patterns/prototype/prototypeShapes/bin/Debug/net9.0/prototypeShapes.pdb
+/home/james/dev/csharp/design_patterns/prototype/prototypeShapes/obj/Debug/net9.0/prototypeShapes.dll
+/home/james/dev/csharp/design_patterns/prototype/prototypeShapes/obj/Debug/net9.0/refint/prototypeShapes.dll
+/home/james/dev/csharp/design_patterns/prototype/prototypeShapes/obj/Debug/net9.0/prototypeShapes.pdb
+/home/james/dev/csharp/design_patterns/prototype/prototypeShapes/obj/Debug/net9.0/prototypeShapes.genruntimeconfig.cache
+/home/james/dev/csharp/design_patterns/prototype/prototypeShapes/obj/Debug/net9.0/ref/prototypeShapes.dll

@@ -1,0 +1,15 @@
+/home/james/dev/csharp/design_patterns/prototype/prototypeBasic/bin/Debug/net9.0/prototypeBasic
+/home/james/dev/csharp/design_patterns/prototype/prototypeBasic/bin/Debug/net9.0/prototypeBasic.deps.json
+/home/james/dev/csharp/design_patterns/prototype/prototypeBasic/bin/Debug/net9.0/prototypeBasic.runtimeconfig.json
+/home/james/dev/csharp/design_patterns/prototype/prototypeBasic/bin/Debug/net9.0/prototypeBasic.dll
+/home/james/dev/csharp/design_patterns/prototype/prototypeBasic/bin/Debug/net9.0/prototypeBasic.pdb
+/home/james/dev/csharp/design_patterns/prototype/prototypeBasic/obj/Debug/net9.0/prototypeBasic.GeneratedMSBuildEditorConfig.editorconfig
+/home/james/dev/csharp/design_patterns/prototype/prototypeBasic/obj/Debug/net9.0/prototypeBasic.AssemblyInfoInputs.cache
+/home/james/dev/csharp/design_patterns/prototype/prototypeBasic/obj/Debug/net9.0/prototypeBasic.AssemblyInfo.cs
+/home/james/dev/csharp/design_patterns/prototype/prototypeBasic/obj/Debug/net9.0/prototypeBasic.csproj.CoreCompileInputs.cache
+/home/james/dev/csharp/design_patterns/prototype/prototypeBasic/obj/Debug/net9.0/prototypeBasic.sourcelink.json
+/home/james/dev/csharp/design_patterns/prototype/prototypeBasic/obj/Debug/net9.0/prototypeBasic.dll
+/home/james/dev/csharp/design_patterns/prototype/prototypeBasic/obj/Debug/net9.0/refint/prototypeBasic.dll
+/home/james/dev/csharp/design_patterns/prototype/prototypeBasic/obj/Debug/net9.0/prototypeBasic.pdb
+/home/james/dev/csharp/design_patterns/prototype/prototypeBasic/obj/Debug/net9.0/prototypeBasic.genruntimeconfig.cache
+/home/james/dev/csharp/design_patterns/prototype/prototypeBasic/obj/Debug/net9.0/ref/prototypeBasic.dll
