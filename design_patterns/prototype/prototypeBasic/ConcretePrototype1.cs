@@ -1,4 +1,4 @@
-public class ConcretePrototype1 : IPrototype
+public class ConcretePrototype1 : IPrototype, IConcretePrototype1
 {
     public IPrototype Clone()
     {
